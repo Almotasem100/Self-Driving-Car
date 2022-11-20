@@ -27,6 +27,6 @@ At the server, we designed an algorithm based on computer Vision libraries where
 
 ```
 
-For more Info Check our vedios in the Results folder.
+For more Info Check our videos in the Results folder.
 
 ```
